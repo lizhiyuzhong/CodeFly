@@ -19,4 +19,4 @@
 3. 发布作业并设定标准输入、输出的答案，可自行设置评分规则（多种答案或正则）。
 
 ## 实现思路等细节
-欢迎进入饼干博客 www.lizhiyuzhongblog.cn 查看。
+欢迎进入饼干博客 www.lizhiyuzhongblog.cn 查看(SSL过期了，不用担心）。
